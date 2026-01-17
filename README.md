@@ -1,22 +1,6 @@
 ## Hi there 👋
-はじめまして、田中 榛です。
 
-### 🌱 About me
-- IT / Webバックエンドを中心に学習中
-- PHP・MySQL・Docker を使ったWebアプリ開発
-
-### 🔧 Skills
-- Language: PHP / Java / Python
-- Backend: PHP, MySQL
-- Infra: Docker, Nginx
-- Tools: Git, GitHub, VS Code
-
-### 📌 Projects
-- 💇 美容室予約システム（Backend）
-
-### 📫 Contact
-- GitHub: https://github.com/TANAKAHARUNA7
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TANAKAHARUNA7&show_icons=true)
+https://github-stats-evirunurm.vercel.app/api/languages.js?username=TANAKAHARUNA7
 
 
 
