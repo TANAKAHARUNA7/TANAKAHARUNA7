@@ -17,7 +17,9 @@
 ### 📫 Contact
 - GitHub: https://github.com/TANAKAHARUNA7
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TANAKAHARUNA7&layout=★★★)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/apiusername=TANAKAHARUNA7&show_icons=true&theme=★★★)
+
 
 <!--
 **TANAKAHARUNA7/TANAKAHARUNA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
