@@ -1,4 +1,7 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Story+Script&size=40&duration=4000&pause=1000&color=F791BD&background=2096FF00&center=true&vCenter=true&random=true&width=439&lines=+%F0%9F%8C%BCHi+I'm+Haruna)](https://git.io/typing-svg)
+
+<br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TANAKAHARUNA7&theme=default)
 
 
